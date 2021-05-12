@@ -8,6 +8,10 @@
 			<ContextMenu name="ГалочкаКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="ГалочкаРасширеннаяПодсказка" id="3"/>
 		</CheckBoxField>
+		<LabelDecoration name="Декорация1" id="7">
+			<ContextMenu name="Декорация1КонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="Декорация1РасширеннаяПодсказка" id="9"/>
+		</LabelDecoration>
 		<InputField name="ПолеВводаТекста" id="4">
 			<DataPath>ПолеВводаТекста</DataPath>
 			<ContextMenu name="ПолеВводаТекстаКонтекстноеМеню" id="5"/>
