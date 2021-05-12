@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
-		<Metadata name="CommonForm.Форма" id="777d0e83-d3b6-49ba-b9dd-d0d87a17971c" configVersion="a652e582d9e68348b36132039e33547200000000"/>
-		<Metadata name="CommonForm.Форма.Form" id="777d0e83-d3b6-49ba-b9dd-d0d87a17971c.0" configVersion="ae1fefc7ebdff54d81100d3b1753548700000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1" id="b33a9d53-f027-4f5c-a859-d4a7659d86a4" configVersion="1a4defd8c594d24db1d34584c3b80a4800000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="b33a9d53-f027-4f5c-a859-d4a7659d86a4.0" configVersion="2e01bae04559944abed2e10cd8cd05ee00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="9c484e1f-2139-413c-b765-d06961220a32" configVersion="8ffb67552af48846b044256157bf293f00000000"/>
+		<Metadata name="CommonForm.Форма" id="777d0e83-d3b6-49ba-b9dd-d0d87a17971c" configVersion="cb2a1e4472c5f4488255cf1863e3de9500000000"/>
+		<Metadata name="CommonForm.Форма.Form" id="777d0e83-d3b6-49ba-b9dd-d0d87a17971c.0" configVersion="b92834d33f2e7542897cb60db57ade3c00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="b33a9d53-f027-4f5c-a859-d4a7659d86a4" configVersion="952ae29656b80b489addec6348fc756200000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="b33a9d53-f027-4f5c-a859-d4a7659d86a4.0" configVersion="37dd42a46f4f5c489fa5885d292fa3af00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2" id="16de981b-767b-49e7-ab31-371d49884de5" configVersion="12d920fe6077d747b63fdea88945831400000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="16de981b-767b-49e7-ab31-371d49884de5.0" configVersion="fe79f9574a4cc44c9690ad3237d0f5f100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="9c484e1f-2139-413c-b765-d06961220a32" configVersion="c982ea0f168dd449b978015fe6705b7b00000000"/>
 		<Metadata name="Language.Русский" id="99fee30f-a107-4f0f-921e-e011d5f9e9e2" configVersion="8803152eaa2d1846bdde391c5019660200000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
