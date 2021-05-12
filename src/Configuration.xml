@@ -201,7 +201,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<SessionParameter>ПараметрСеанса1</SessionParameter>
 			<CommonModule>ОбщийМодуль1</CommonModule>
+			<CommonModule>ОбщийМодуль02</CommonModule>
 			<CommonForm>Форма</CommonForm>
 		</ChildObjects>
 	</Configuration>
